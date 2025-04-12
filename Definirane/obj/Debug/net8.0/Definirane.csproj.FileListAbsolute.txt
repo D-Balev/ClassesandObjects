@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Definirane\bin\Debug\net8.0\Definirane.exe
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Definirane\bin\Debug\net8.0\Definirane.deps.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Definirane\bin\Debug\net8.0\Definirane.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Definirane\bin\Debug\net8.0\Definirane.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Definirane\bin\Debug\net8.0\Definirane.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Definirane\obj\Debug\net8.0\Definirane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Definirane\obj\Debug\net8.0\Definirane.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Definirane\obj\Debug\net8.0\Definirane.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Definirane\obj\Debug\net8.0\Definirane.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Definirane\obj\Debug\net8.0\Definirane.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Definirane\obj\Debug\net8.0\refint\Definirane.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Definirane\obj\Debug\net8.0\Definirane.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Definirane\obj\Debug\net8.0\Definirane.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Definirane\obj\Debug\net8.0\ref\Definirane.dll

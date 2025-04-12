@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\statistika\bin\Debug\net8.0\statistika.exe
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\statistika\bin\Debug\net8.0\statistika.deps.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\statistika\bin\Debug\net8.0\statistika.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\statistika\bin\Debug\net8.0\statistika.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\statistika\bin\Debug\net8.0\statistika.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\statistika\obj\Debug\net8.0\statistika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\statistika\obj\Debug\net8.0\statistika.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\statistika\obj\Debug\net8.0\statistika.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\statistika\obj\Debug\net8.0\statistika.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\statistika\obj\Debug\net8.0\statistika.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\statistika\obj\Debug\net8.0\refint\statistika.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\statistika\obj\Debug\net8.0\statistika.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\statistika\obj\Debug\net8.0\statistika.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\statistika\obj\Debug\net8.0\ref\statistika.dll
