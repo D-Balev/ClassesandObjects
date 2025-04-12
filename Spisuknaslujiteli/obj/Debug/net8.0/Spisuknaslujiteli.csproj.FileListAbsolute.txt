@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Spisuknaslujiteli\bin\Debug\net8.0\Spisuknaslujiteli.exe
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Spisuknaslujiteli\bin\Debug\net8.0\Spisuknaslujiteli.deps.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Spisuknaslujiteli\bin\Debug\net8.0\Spisuknaslujiteli.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Spisuknaslujiteli\bin\Debug\net8.0\Spisuknaslujiteli.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Spisuknaslujiteli\bin\Debug\net8.0\Spisuknaslujiteli.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Spisuknaslujiteli\obj\Debug\net8.0\Spisuknaslujiteli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Spisuknaslujiteli\obj\Debug\net8.0\Spisuknaslujiteli.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Spisuknaslujiteli\obj\Debug\net8.0\Spisuknaslujiteli.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Spisuknaslujiteli\obj\Debug\net8.0\Spisuknaslujiteli.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Spisuknaslujiteli\obj\Debug\net8.0\Spisuknaslujiteli.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Spisuknaslujiteli\obj\Debug\net8.0\Spisuknaslujiteli.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Spisuknaslujiteli\obj\Debug\net8.0\refint\Spisuknaslujiteli.dll
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Spisuknaslujiteli\obj\Debug\net8.0\Spisuknaslujiteli.pdb
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Spisuknaslujiteli\obj\Debug\net8.0\Spisuknaslujiteli.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\programirane\ClassesandObject\Spisuknaslujiteli\obj\Debug\net8.0\ref\Spisuknaslujiteli.dll
